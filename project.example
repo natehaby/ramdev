@@ -1,0 +1,4 @@
+PROJECT_NAME="project name"
+RAM_DISK_MOUNT="/mnt/ramdev/YOUR_PROJECT" 
+SOURCE_DIR="path/to/persistant/data"
+RAM_DISK_SIZE="2G"
