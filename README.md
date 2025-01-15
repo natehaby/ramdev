@@ -96,10 +96,10 @@ ramdev.sh list
 ```
 
 # Project Files
-*PROJECT_NAME* - Not actually used.
-*RAM_DISK_MOUNT* - The path where you want the ramdisk mounted. */mnt/ramdev/YOUR_PROJECT* in the example is a suggestion.
-*SOURCE_DIR* - The path to the persistant data. This is where ramdev will sync.
-*RAM_DISK_SIZE* - The size of the ramdisk you want to create. e.g 1G, 250M
+- *PROJECT_NAME* - Not actually used.
+- *RAM_DISK_MOUNT* - The path where you want the ramdisk mounted. */mnt/ramdev/YOUR_PROJECT* in the example is a suggestion.
+- *SOURCE_DIR* - The path to the persistant data. This is where ramdev will sync.
+- *RAM_DISK_SIZE* - The size of the ramdisk you want to create. e.g 1G, 250M
 
 
 
